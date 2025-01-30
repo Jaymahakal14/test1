@@ -12,7 +12,7 @@ keep_alive()
 bot = telebot.TeleBot('7125146756:AAGEc1B72NAKRIGSSBGC6uSkuGpu-O4xx5Y')
 
 # Admin user IDs
-admin_id = ["757915155"]
+admin_id = ["757915155", "5056902784"]
 
 # Assuming CHANNEL_ID is defined globally
 CHANNEL_ID = '-1002464533692'  # Replace with your actual channel ID or username
